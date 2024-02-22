@@ -1,6 +1,6 @@
 {
   "name": "yangdongzhang_watermarkpackage",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "water remark",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,9 @@
     "remark"
   ],
   "repository": {
-     "type": "git",
-      "url": "https://github.com/256mywind/water.git"
-   },
+    "type": "git",
+    "url": "https://github.com/256mywind/water.git"
+  },
   "author": "yangdong",
   "license": "ISC"
 }
