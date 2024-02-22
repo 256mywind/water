@@ -1,6 +1,6 @@
 {
   "name": "yangdongzhang_watermarkpackage",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "water remark",
   "main": "index.js",
   "scripts": {
