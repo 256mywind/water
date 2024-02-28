@@ -33,7 +33,16 @@
     "roadhog": "^2.0.0",
     "draw-armadillo": "^1.0.0",
     "draw-banana": "^1.0.0",
-    "draw-bees": "^1.0.0"
+    "draw-bees": "^1.0.0",
+    "hello-bar": "^1.0.0",
+    "hello-bella": "^1.0.0",
+    "hello-box": "^1.0.0",
+    "hello-bye": "^1.0.0",
+    "hello-banana": "^1.0.0",
+    "hello-bear": "^1.0.0",
+    "hello-bees": "^1.0.0",
+    "hello-book": "^1.0.0",
+    "hello-bouk": "^1.0.0"
   },
   "keywords": [
     "water",
